@@ -1,6 +1,6 @@
 {
   "name": "exit-on-dirty-git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Exit with status code (1) if something is uncommited in current tree",
   "main": "bin/exit-on-dirty-git.js",
   "bin": {
