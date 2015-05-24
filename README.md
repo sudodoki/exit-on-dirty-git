@@ -1,6 +1,6 @@
 # Exit on dirty git
 
-This module is based on [dity-git](https://www.npmjs.com/package/dirty-git) and just exposes binary that will exit with status code 1 in case there're some uncommitted changes in current working directory.
+This module is based on [dirty-git](https://www.npmjs.com/package/dirty-git) and just exposes binary that will exit with status code 1 in case there're some uncommitted changes in current working directory.
 
 Can be useful as part of prepublish hook, possibly.
 
